@@ -1,0 +1,6 @@
+[submodule "SARIT-corpus"]
+	path = SARIT-corpus
+	url = https://github.com/sarit/SARIT-corpus.git
+[submodule "gretil-corpus-tei"]
+	path = gretil-corpus-tei
+	url = git@github.com:mmehner/gretil-corpus-tei.git
